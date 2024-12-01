@@ -39,7 +39,3 @@ There was no reason to do this through PCILeech besides the fact that it was jus
 * Config
   * Load
   * Save
-## Credits
-* [PCILeech](https://github.com/ufrisk/pcileech)
-* [MemProcFS](https://github.com/ufrisk/MemProcFS)
-* [DMALibrary](https://github.com/Metick/DMALibrary/tree/Master)
